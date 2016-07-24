@@ -108,19 +108,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="../Katalyst/img/1.jpg" >
+      <img src="img/1.jpg" >
     </div>
 
     <div class="item">
-      <img src="../Katalyst/img/2.jpg" >
+      <img src="img/2.jpg" >
     </div>
 
     <div class="item">
-      <img src="../Katalyst/img/3.jpg" >
+      <img src="img/3.jpg" >
     </div>
 
     <div class="item">
-      <img src="../Katalyst/img/4.jpg">
+      <img src="img/4.jpg">
     </div>
   </div>
 
